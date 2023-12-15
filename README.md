@@ -2,7 +2,7 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site (1 week ago)
+- [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site (2 weeks ago)
 - [mpslanker/dotfiles](https://github.com/mpslanker/dotfiles) (4 months ago)
 - [lionheart/pinboard.py](https://github.com/lionheart/pinboard.py) - A full-featured Python wrapper (and command-line utility) for the Pinboard API. Built by the makers of Pushpin for Pinboard. (6 months ago)
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications (10 months ago)
@@ -26,7 +26,7 @@
 #### ⭐ Recent stars
 
 - [jordanjustice/github-dark-theme-iterm2](https://github.com/jordanjustice/github-dark-theme-iterm2) - An iTerm2 theme based off of Github Dark. (4 months ago)
-- [ofirgall/tmux-window-name](https://github.com/ofirgall/tmux-window-name) - A plugin to name your tmux windows smartly. (9 months ago)
+- [ofirgall/tmux-window-name](https://github.com/ofirgall/tmux-window-name) - A plugin to name your tmux windows smartly. (10 months ago)
 - [karashiiro/xiv-resources](https://github.com/karashiiro/xiv-resources) - A list of websites and tools for FFXIV. (1 year ago)
 - [containers/krunvm](https://github.com/containers/krunvm) - Create microVMs from OCI images (1 year ago)
 - [OpenNuvoton/M031BSP](https://github.com/OpenNuvoton/M031BSP) - BSP for M031 Series MCU (2 years ago)
