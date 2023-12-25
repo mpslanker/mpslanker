@@ -2,8 +2,8 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [slaro/p5py-demos](https://github.com/slaro/p5py-demos) - p5 python demos (5 days ago)
-- [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site (3 weeks ago)
+- [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site (1 day ago)
+- [slaro/p5py-demos](https://github.com/slaro/p5py-demos) - p5 python demos (6 days ago)
 - [mpslanker/dotfiles](https://github.com/mpslanker/dotfiles) (4 months ago)
 - [lionheart/pinboard.py](https://github.com/lionheart/pinboard.py) - A full-featured Python wrapper (and command-line utility) for the Pinboard API. Built by the makers of Pushpin for Pinboard. (6 months ago)
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications (10 months ago)
@@ -26,7 +26,7 @@
 
 #### ⭐ Recent stars
 
-- [jiggak/steve-launcher](https://github.com/jiggak/steve-launcher) - Minecraft launcher for the command line (1 day ago)
+- [jiggak/steve-launcher](https://github.com/jiggak/steve-launcher) - Minecraft launcher for the command line (2 days ago)
 - [jordanjustice/github-dark-theme-iterm2](https://github.com/jordanjustice/github-dark-theme-iterm2) - An iTerm2 theme based off of Github Dark. (4 months ago)
 - [ofirgall/tmux-window-name](https://github.com/ofirgall/tmux-window-name) - A plugin to name your tmux windows smartly. (10 months ago)
 - [karashiiro/xiv-resources](https://github.com/karashiiro/xiv-resources) - A list of websites and tools for FFXIV. (1 year ago)
