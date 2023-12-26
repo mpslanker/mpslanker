@@ -24,7 +24,7 @@
 - [Skips parsing keys when dealing with tags](https://github.com/lionheart/pinboard.py/pull/28) on [lionheart/pinboard.py](https://github.com/lionheart/pinboard.py) (10 months ago)
 - [Updated debian install docs to work on both debian and ubuntu](https://github.com/dokku/dokku/pull/5658) on [dokku/dokku](https://github.com/dokku/dokku) (10 months ago)
 
-#### 📜 My recent blog posts
+#### 📜 Recent posts on my blog (They're not always written by me) 
 
 - [About The Authors](https://skb.io/about/) (2 days ago)
 - [Angular &#43; FastAPI with OpenAPI Generator](https://skb.io/posts/ng&#43;fastapi/) (10 months ago)
