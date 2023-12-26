@@ -22,5 +22,11 @@
 
 #### 📫 How to reach me
 - Blog: https://skb.io
+
+{{range rss "https://skb.io/index.xml" 5}}
+Title: {{.Title}}
+URL: {{.URL}}
+Published: {{humanize .PublishedAt}}
+{{end}}
 ---
 <img src="https://raw.githubusercontent.com/mpslanker/mpslanker/main/github-metrics.svg">
