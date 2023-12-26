@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
+- [slaro/p5js-aizawa-attractor](https://github.com/slaro/p5js-aizawa-attractor) - Implementation of the Aizawa attractor in p5.js (today)
 - [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site (1 day ago)
+- [antiboredom/p5.vscode](https://github.com/antiboredom/p5.vscode) - A VS Code extension to generate new p5.js project files. (1 day ago)
 - [slaro/p5py-demos](https://github.com/slaro/p5py-demos) - p5 python demos (1 week ago)
 - [mpslanker/dotfiles](https://github.com/mpslanker/dotfiles) (4 months ago)
-- [lionheart/pinboard.py](https://github.com/lionheart/pinboard.py) - A full-featured Python wrapper (and command-line utility) for the Pinboard API. Built by the makers of Pushpin for Pinboard. (6 months ago)
-- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [correcting the p5.easycam library install url.](https://github.com/antiboredom/p5.vscode/pull/62) on [antiboredom/p5.vscode](https://github.com/antiboredom/p5.vscode) (today)
 - [Feature/monaco editor](https://github.com/mpslanker/Ronin/pull/1) on [mpslanker/Ronin](https://github.com/mpslanker/Ronin) (today)
 - [Feature/GitHub actions](https://github.com/lionheart/pinboard.py/pull/30) on [lionheart/pinboard.py](https://github.com/lionheart/pinboard.py) (10 months ago)
 - [Skips parsing keys when dealing with tags](https://github.com/lionheart/pinboard.py/pull/28) on [lionheart/pinboard.py](https://github.com/lionheart/pinboard.py) (10 months ago)
 - [Updated debian install docs to work on both debian and ubuntu](https://github.com/dokku/dokku/pull/5658) on [dokku/dokku](https://github.com/dokku/dokku) (10 months ago)
-- [Develop](https://github.com/mpslanker/skb.io/pull/2) on [mpslanker/skb.io](https://github.com/mpslanker/skb.io) (2 years ago)
 
 #### ⭐ Recent stars
 
@@ -34,5 +34,27 @@
 
 #### 📫 How to reach me
 - Blog: https://skb.io
+
+
+Title: About The Authors
+URL: https://skb.io/about/
+Published: 2 days ago
+
+Title: Angular &#43; FastAPI with OpenAPI Generator
+URL: https://skb.io/posts/ng&#43;fastapi/
+Published: 10 months ago
+
+Title: macOS Folder Actions - Dismiss Notifications
+URL: https://skb.io/posts/macos-folder-actions/
+Published: 2 years ago
+
+Title: Xpenology DSM 6.1.x on VMware ESXi 7
+URL: https://skb.io/posts/xpenology-dsm104b/
+Published: 2 years ago
+
+Title: Docker Contexts &amp; Synology
+URL: https://skb.io/posts/docker&#43;synology/
+Published: 2 years ago
+
 ---
 <img src="https://raw.githubusercontent.com/mpslanker/mpslanker/main/github-metrics.svg">
