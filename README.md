@@ -24,6 +24,14 @@
 - [Skips parsing keys when dealing with tags](https://github.com/lionheart/pinboard.py/pull/28) on [lionheart/pinboard.py](https://github.com/lionheart/pinboard.py) (10 months ago)
 - [Updated debian install docs to work on both debian and ubuntu](https://github.com/dokku/dokku/pull/5658) on [dokku/dokku](https://github.com/dokku/dokku) (10 months ago)
 
+#### 📜 My recent blog posts
+
+- [About The Authors](https://skb.io/about/) (2 days ago)
+- [Angular &#43; FastAPI with OpenAPI Generator](https://skb.io/posts/ng&#43;fastapi/) (10 months ago)
+- [macOS Folder Actions - Dismiss Notifications](https://skb.io/posts/macos-folder-actions/) (2 years ago)
+- [Xpenology DSM 6.1.x on VMware ESXi 7](https://skb.io/posts/xpenology-dsm104b/) (2 years ago)
+- [Docker Contexts &amp; Synology](https://skb.io/posts/docker&#43;synology/) (2 years ago)
+
 #### ⭐ Recent stars
 
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website &amp; Blog Theme for Hugo (today)
@@ -34,27 +42,5 @@
 
 #### 📫 How to reach me
 - Blog: https://skb.io
-
-
-Title: About The Authors
-URL: https://skb.io/about/
-Published: 2 days ago
-
-Title: Angular &#43; FastAPI with OpenAPI Generator
-URL: https://skb.io/posts/ng&#43;fastapi/
-Published: 10 months ago
-
-Title: macOS Folder Actions - Dismiss Notifications
-URL: https://skb.io/posts/macos-folder-actions/
-Published: 2 years ago
-
-Title: Xpenology DSM 6.1.x on VMware ESXi 7
-URL: https://skb.io/posts/xpenology-dsm104b/
-Published: 2 years ago
-
-Title: Docker Contexts &amp; Synology
-URL: https://skb.io/posts/docker&#43;synology/
-Published: 2 years ago
-
 ---
 <img src="https://raw.githubusercontent.com/mpslanker/mpslanker/main/github-metrics.svg">
