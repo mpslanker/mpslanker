@@ -15,6 +15,11 @@
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
+#### 📜 My recent blog posts
+{{range rss "https://skb.io/index.xml" 5}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
+
 #### ⭐ Recent stars
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
@@ -22,11 +27,5 @@
 
 #### 📫 How to reach me
 - Blog: https://skb.io
-
-{{range rss "https://skb.io/index.xml" 5}}
-Title: {{.Title}}
-URL: {{.URL}}
-Published: {{humanize .PublishedAt}}
-{{end}}
 ---
 <img src="https://raw.githubusercontent.com/mpslanker/mpslanker/main/github-metrics.svg">
