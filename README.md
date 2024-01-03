@@ -2,7 +2,7 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site (1 week ago)
+- [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site (1 day ago)
 - [slaro/p5js-aizawa-attractor](https://github.com/slaro/p5js-aizawa-attractor) - Implementation of the Aizawa attractor in p5.js (1 week ago)
 - [antiboredom/p5.vscode](https://github.com/antiboredom/p5.vscode) - A VS Code extension to generate new p5.js project files. (1 week ago)
 - [slaro/p5py-demos](https://github.com/slaro/p5py-demos) - p5 python demos (2 weeks ago)
@@ -26,11 +26,11 @@
 
 #### 📜 Recent posts on my blog (They're not always written by me) 
 
+- [Booting with PXE](https://skb.io/posts/booting-with-pxe/) (1 day ago)
 - [Creative Coding](https://skb.io/posts/generative-art/) (1 week ago)
 - [About The Authors](https://skb.io/about/) (1 week ago)
 - [Angular &#43; FastAPI with OpenAPI Generator](https://skb.io/posts/ng&#43;fastapi/) (10 months ago)
 - [macOS Folder Actions - Dismiss Notifications](https://skb.io/posts/macos-folder-actions/) (2 years ago)
-- [Xpenology DSM 6.1.x on VMware ESXi 7](https://skb.io/posts/xpenology-dsm104b/) (2 years ago)
 
 #### ⭐ Recent stars
 
