@@ -2,7 +2,7 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site (2 days ago)
+- [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site (3 days ago)
 - [slaro/p5js-aizawa-attractor](https://github.com/slaro/p5js-aizawa-attractor) - Implementation of the Aizawa attractor in p5.js (1 week ago)
 - [antiboredom/p5.vscode](https://github.com/antiboredom/p5.vscode) - A VS Code extension to generate new p5.js project files. (1 week ago)
 - [slaro/p5py-demos](https://github.com/slaro/p5py-demos) - p5 python demos (2 weeks ago)
@@ -26,7 +26,7 @@
 
 #### 📜 Recent posts on my blog (They're not always written by me) 
 
-- [Booting with PXE](https://skb.io/posts/booting-with-pxe/) (3 days ago)
+- [Booting with PXE](https://skb.io/posts/booting-with-pxe/) (4 days ago)
 - [Creative Coding](https://skb.io/posts/generative-art/) (1 week ago)
 - [About The Authors](https://skb.io/about/) (1 week ago)
 - [Angular &#43; FastAPI with OpenAPI Generator](https://skb.io/posts/ng&#43;fastapi/) (10 months ago)
@@ -36,7 +36,7 @@
 
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website &amp; Blog Theme for Hugo (1 week ago)
 - [yagiz/Bagel](https://github.com/yagiz/Bagel) - a little native network debugging tool for iOS (1 week ago)
-- [jiggak/steve-launcher](https://github.com/jiggak/steve-launcher) - Minecraft launcher for the command line (1 week ago)
+- [jiggak/steve-launcher](https://github.com/jiggak/steve-launcher) - Minecraft launcher for the command line (2 weeks ago)
 - [jordanjustice/github-dark-theme-iterm2](https://github.com/jordanjustice/github-dark-theme-iterm2) - An iTerm2 theme based off of Github Dark. (5 months ago)
 - [ofirgall/tmux-window-name](https://github.com/ofirgall/tmux-window-name) - A plugin to name your tmux windows smartly. (10 months ago)
 
