@@ -6,7 +6,7 @@
 - [slaro/p5js-aizawa-attractor](https://github.com/slaro/p5js-aizawa-attractor) - Implementation of the Aizawa attractor in p5.js (2 weeks ago)
 - [antiboredom/p5.vscode](https://github.com/antiboredom/p5.vscode) - A VS Code extension to generate new p5.js project files. (2 weeks ago)
 - [slaro/p5py-demos](https://github.com/slaro/p5py-demos) - p5 python demos (3 weeks ago)
-- [mpslanker/dotfiles](https://github.com/mpslanker/dotfiles) (4 months ago)
+- [mpslanker/dotfiles](https://github.com/mpslanker/dotfiles) (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -36,7 +36,7 @@
 
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website &amp; Blog Theme for Hugo (2 weeks ago)
 - [yagiz/Bagel](https://github.com/yagiz/Bagel) - a little native network debugging tool for iOS (2 weeks ago)
-- [jiggak/steve-launcher](https://github.com/jiggak/steve-launcher) - Minecraft launcher for the command line (2 weeks ago)
+- [jiggak/steve-launcher](https://github.com/jiggak/steve-launcher) - Minecraft launcher for the command line (3 weeks ago)
 - [jordanjustice/github-dark-theme-iterm2](https://github.com/jordanjustice/github-dark-theme-iterm2) - An iTerm2 theme based off of Github Dark. (5 months ago)
 - [ofirgall/tmux-window-name](https://github.com/ofirgall/tmux-window-name) - A plugin to name your tmux windows smartly. (10 months ago)
 
