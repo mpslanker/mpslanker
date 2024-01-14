@@ -28,7 +28,7 @@
 
 - [Booting with PXE](https://skb.io/posts/booting-with-pxe/) (1 week ago)
 - [Creative Coding](https://skb.io/posts/generative-art/) (2 weeks ago)
-- [About The Authors](https://skb.io/about/) (2 weeks ago)
+- [About The Authors](https://skb.io/about/) (3 weeks ago)
 - [Angular &#43; FastAPI with OpenAPI Generator](https://skb.io/posts/ng&#43;fastapi/) (10 months ago)
 - [macOS Folder Actions - Dismiss Notifications](https://skb.io/posts/macos-folder-actions/) (2 years ago)
 
@@ -38,7 +38,7 @@
 - [yagiz/Bagel](https://github.com/yagiz/Bagel) - a little native network debugging tool for iOS (2 weeks ago)
 - [jiggak/steve-launcher](https://github.com/jiggak/steve-launcher) - Minecraft launcher for the command line (3 weeks ago)
 - [jordanjustice/github-dark-theme-iterm2](https://github.com/jordanjustice/github-dark-theme-iterm2) - An iTerm2 theme based off of Github Dark. (5 months ago)
-- [ofirgall/tmux-window-name](https://github.com/ofirgall/tmux-window-name) - A plugin to name your tmux windows smartly. (10 months ago)
+- [ofirgall/tmux-window-name](https://github.com/ofirgall/tmux-window-name) - A plugin to name your tmux windows smartly. (11 months ago)
 
 #### 📫 How to reach me
 - Blog: https://skb.io
