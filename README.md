@@ -4,7 +4,7 @@
 
 - [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site (1 week ago)
 - [slaro/p5js-aizawa-attractor](https://github.com/slaro/p5js-aizawa-attractor) - Implementation of the Aizawa attractor in p5.js (2 weeks ago)
-- [antiboredom/p5.vscode](https://github.com/antiboredom/p5.vscode) - A VS Code extension to generate new p5.js project files. (2 weeks ago)
+- [antiboredom/p5.vscode](https://github.com/antiboredom/p5.vscode) - A VS Code extension to generate new p5.js project files. (3 weeks ago)
 - [slaro/p5py-demos](https://github.com/slaro/p5py-demos) - p5 python demos (3 weeks ago)
 - [mpslanker/dotfiles](https://github.com/mpslanker/dotfiles) (5 months ago)
 
