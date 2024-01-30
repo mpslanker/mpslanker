@@ -27,7 +27,7 @@
 #### 📜 Recent posts on my blog (They're not always written by me) 
 
 - [Learning Blender in 2024](https://skb.io/posts/blender-getting-started/) (1 week ago)
-- [Booting with PXE](https://skb.io/posts/booting-with-pxe/) (3 weeks ago)
+- [Booting with PXE](https://skb.io/posts/booting-with-pxe/) (4 weeks ago)
 - [Creative Coding](https://skb.io/posts/generative-art/) (1 month ago)
 - [About The Authors](https://skb.io/about/) (1 month ago)
 - [Angular &#43; FastAPI with OpenAPI Generator](https://skb.io/posts/ng&#43;fastapi/) (11 months ago)
