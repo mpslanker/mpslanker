@@ -29,7 +29,7 @@
 - [Learning Blender in 2024](https://skb.io/posts/blender-getting-started/) (1 month ago)
 - [Booting with PXE](https://skb.io/posts/booting-with-pxe/) (1 month ago)
 - [Creative Coding](https://skb.io/posts/generative-art/) (1 month ago)
-- [About The Authors](https://skb.io/about/) (1 month ago)
+- [About The Authors](https://skb.io/about/) (2 months ago)
 - [Angular &#43; FastAPI with OpenAPI Generator](https://skb.io/posts/ng&#43;fastapi/) (1 year ago)
 
 #### ⭐ Recent stars
