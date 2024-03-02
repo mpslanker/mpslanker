@@ -27,7 +27,7 @@
 #### 📜 Recent posts on my blog (They're not always written by me) 
 
 - [Learning Blender in 2024](https://skb.io/posts/blender-getting-started/) (1 month ago)
-- [Booting with PXE](https://skb.io/posts/booting-with-pxe/) (1 month ago)
+- [Booting with PXE](https://skb.io/posts/booting-with-pxe/) (2 months ago)
 - [Creative Coding](https://skb.io/posts/generative-art/) (2 months ago)
 - [About The Authors](https://skb.io/about/) (2 months ago)
 - [Angular &#43; FastAPI with OpenAPI Generator](https://skb.io/posts/ng&#43;fastapi/) (1 year ago)
@@ -37,7 +37,7 @@
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website &amp; Blog Theme for Hugo (2 months ago)
 - [yagiz/Bagel](https://github.com/yagiz/Bagel) - a little native network debugging tool for iOS (2 months ago)
 - [jiggak/steve-launcher](https://github.com/jiggak/steve-launcher) - Minecraft launcher for the command line (2 months ago)
-- [jordanjustice/github-dark-theme-iterm2](https://github.com/jordanjustice/github-dark-theme-iterm2) - An iTerm2 theme based off of Github Dark. (6 months ago)
+- [jordanjustice/github-dark-theme-iterm2](https://github.com/jordanjustice/github-dark-theme-iterm2) - An iTerm2 theme based off of Github Dark. (7 months ago)
 - [ofirgall/tmux-window-name](https://github.com/ofirgall/tmux-window-name) - A plugin to name your tmux windows smartly. (1 year ago)
 
 #### 📫 How to reach me
