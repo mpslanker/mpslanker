@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
+- [mpslanker/dotfiles](https://github.com/mpslanker/dotfiles) (1 day ago)
 - [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site (3 months ago)
 - [slaro/p5js-aizawa-attractor](https://github.com/slaro/p5js-aizawa-attractor) - Implementation of the Aizawa attractor in p5.js (4 months ago)
 - [antiboredom/p5.vscode](https://github.com/antiboredom/p5.vscode) - A VS Code extension to generate new p5.js project files. (4 months ago)
 - [slaro/p5py-demos](https://github.com/slaro/p5py-demos) - p5 python demos (4 months ago)
-- [mpslanker/dotfiles](https://github.com/mpslanker/dotfiles) (8 months ago)
 
 #### 🌱 My latest projects
 
