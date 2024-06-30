@@ -2,8 +2,8 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [mpslanker/dotfiles](https://github.com/mpslanker/dotfiles) (4 days ago)
-- [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site (6 days ago)
+- [mpslanker/dotfiles](https://github.com/mpslanker/dotfiles) (5 days ago)
+- [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site (1 week ago)
 - [slaro/p5js-aizawa-attractor](https://github.com/slaro/p5js-aizawa-attractor) - Implementation of the Aizawa attractor in p5.js (6 months ago)
 - [antiboredom/p5.vscode](https://github.com/antiboredom/p5.vscode) - A VS Code extension to generate new p5.js project files. (6 months ago)
 - [slaro/p5py-demos](https://github.com/slaro/p5py-demos) - p5 python demos (6 months ago)
@@ -27,7 +27,7 @@
 #### 📜 Recent posts on my blog (They're not always written by me) 
 
 - [Learning Blender in 2024](https://skb.io/posts/blender-getting-started/) (5 months ago)
-- [Booting with PXE](https://skb.io/posts/booting-with-pxe/) (5 months ago)
+- [Booting with PXE](https://skb.io/posts/booting-with-pxe/) (6 months ago)
 - [Creative Coding](https://skb.io/posts/generative-art/) (6 months ago)
 - [About The Authors](https://skb.io/about/) (6 months ago)
 - [Angular &#43; FastAPI with OpenAPI Generator](https://skb.io/posts/ng&#43;fastapi/) (1 year ago)
@@ -38,7 +38,7 @@
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website &amp; Blog Theme for Hugo (6 months ago)
 - [yagiz/Bagel](https://github.com/yagiz/Bagel) - a little native network debugging tool for iOS (6 months ago)
 - [jiggak/steve-launcher](https://github.com/jiggak/steve-launcher) - Minecraft launcher for the command line (6 months ago)
-- [jordanjustice/github-dark-theme-iterm2](https://github.com/jordanjustice/github-dark-theme-iterm2) - An iTerm2 theme based off of Github Dark. (10 months ago)
+- [jordanjustice/github-dark-theme-iterm2](https://github.com/jordanjustice/github-dark-theme-iterm2) - An iTerm2 theme based off of Github Dark. (11 months ago)
 
 #### 📫 How to reach me
 - Blog: https://skb.io
