@@ -22,7 +22,7 @@
 - [Feature/monaco editor](https://github.com/mpslanker/Ronin/pull/1) on [mpslanker/Ronin](https://github.com/mpslanker/Ronin) (7 months ago)
 - [Feature/GitHub actions](https://github.com/lionheart/pinboard.py/pull/30) on [lionheart/pinboard.py](https://github.com/lionheart/pinboard.py) (1 year ago)
 - [Skips parsing keys when dealing with tags](https://github.com/lionheart/pinboard.py/pull/28) on [lionheart/pinboard.py](https://github.com/lionheart/pinboard.py) (1 year ago)
-- [Updated debian install docs to work on both debian and ubuntu](https://github.com/dokku/dokku/pull/5658) on [dokku/dokku](https://github.com/dokku/dokku) (1 year ago)
+- [Updated debian install docs to work on both debian and ubuntu](https://github.com/dokku/dokku/pull/5658) on [dokku/dokku](https://github.com/dokku/dokku) (2 years ago)
 
 #### 📜 Recent posts on my blog (They're not always written by me) 
 
