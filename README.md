@@ -34,7 +34,7 @@
 
 #### ⭐ Recent stars
 
-- [leanghok120/moody](https://github.com/leanghok120/moody) - A cozy, minimal and super buggy X11 tiling window manager written in C (2 weeks ago)
+- [leanghok120/moody](https://github.com/leanghok120/moody) - A cozy, minimal and super buggy X11 tiling window manager written in C (3 weeks ago)
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (3 months ago)
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website &amp; Blog Theme for Hugo (7 months ago)
 - [yagiz/Bagel](https://github.com/yagiz/Bagel) - a little native network debugging tool for iOS (7 months ago)
