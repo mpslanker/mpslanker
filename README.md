@@ -30,7 +30,7 @@
 - [Booting with PXE](https://skb.io/posts/booting-with-pxe/) (7 months ago)
 - [Creative Coding](https://skb.io/posts/generative-art/) (7 months ago)
 - [About The Authors](https://skb.io/about/) (7 months ago)
-- [Angular &#43; FastAPI with OpenAPI Generator](https://skb.io/posts/ng&#43;fastapi/) (1 year ago)
+- [Angular &#43; FastAPI with OpenAPI Generator](https://skb.io/posts/ng&#43;fastapi/) (2 years ago)
 
 #### ⭐ Recent stars
 
