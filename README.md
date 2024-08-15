@@ -6,7 +6,7 @@
 - [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site (1 month ago)
 - [slaro/p5js-aizawa-attractor](https://github.com/slaro/p5js-aizawa-attractor) - Implementation of the Aizawa attractor in p5.js (7 months ago)
 - [antiboredom/p5.vscode](https://github.com/antiboredom/p5.vscode) - A VS Code extension to generate new p5.js project files. (7 months ago)
-- [slaro/p5py-demos](https://github.com/slaro/p5py-demos) - p5 python demos (7 months ago)
+- [slaro/p5py-demos](https://github.com/slaro/p5py-demos) - p5 python demos (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -20,8 +20,8 @@
 
 - [correcting the p5.easycam library install url.](https://github.com/antiboredom/p5.vscode/pull/62) on [antiboredom/p5.vscode](https://github.com/antiboredom/p5.vscode) (7 months ago)
 - [Feature/monaco editor](https://github.com/mpslanker/Ronin/pull/1) on [mpslanker/Ronin](https://github.com/mpslanker/Ronin) (7 months ago)
-- [Feature/GitHub actions](https://github.com/lionheart/pinboard.py/pull/30) on [lionheart/pinboard.py](https://github.com/lionheart/pinboard.py) (1 year ago)
-- [Skips parsing keys when dealing with tags](https://github.com/lionheart/pinboard.py/pull/28) on [lionheart/pinboard.py](https://github.com/lionheart/pinboard.py) (1 year ago)
+- [Feature/GitHub actions](https://github.com/lionheart/pinboard.py/pull/30) on [lionheart/pinboard.py](https://github.com/lionheart/pinboard.py) (2 years ago)
+- [Skips parsing keys when dealing with tags](https://github.com/lionheart/pinboard.py/pull/28) on [lionheart/pinboard.py](https://github.com/lionheart/pinboard.py) (2 years ago)
 - [Updated debian install docs to work on both debian and ubuntu](https://github.com/dokku/dokku/pull/5658) on [dokku/dokku](https://github.com/dokku/dokku) (2 years ago)
 
 #### 📜 Recent posts on my blog (They're not always written by me) 
