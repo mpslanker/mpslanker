@@ -2,8 +2,8 @@
 ---
 #### 👷 Check out what I'm currently working on
 
+- [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site (1 day ago)
 - [mpslanker/dotfiles](https://github.com/mpslanker/dotfiles) (2 months ago)
-- [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site (2 months ago)
 - [slaro/p5js-aizawa-attractor](https://github.com/slaro/p5js-aizawa-attractor) - Implementation of the Aizawa attractor in p5.js (8 months ago)
 - [antiboredom/p5.vscode](https://github.com/antiboredom/p5.vscode) - A VS Code extension to generate new p5.js project files. (8 months ago)
 - [slaro/p5py-demos](https://github.com/slaro/p5py-demos) - p5 python demos (8 months ago)
@@ -35,7 +35,7 @@
 #### ⭐ Recent stars
 
 - [leanghok120/moody](https://github.com/leanghok120/moody) - A cozy, minimal and super buggy X11 tiling window manager written in C (1 month ago)
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (3 months ago)
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (4 months ago)
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website &amp; Blog Theme for Hugo (8 months ago)
 - [yagiz/Bagel](https://github.com/yagiz/Bagel) - a little native network debugging tool for iOS (8 months ago)
 - [jiggak/steve-launcher](https://github.com/jiggak/steve-launcher) - Minecraft launcher for the command line (8 months ago)
