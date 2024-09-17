@@ -2,7 +2,7 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [mpslanker/dotfiles](https://github.com/mpslanker/dotfiles) (1 day ago)
+- [mpslanker/dotfiles](https://github.com/mpslanker/dotfiles) (2 days ago)
 - [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site (1 week ago)
 - [slaro/p5js-aizawa-attractor](https://github.com/slaro/p5js-aizawa-attractor) - Implementation of the Aizawa attractor in p5.js (8 months ago)
 - [antiboredom/p5.vscode](https://github.com/antiboredom/p5.vscode) - A VS Code extension to generate new p5.js project files. (8 months ago)
@@ -26,7 +26,7 @@
 
 #### 📜 Recent posts on my blog (They're not always written by me) 
 
-- [Learning Blender in 2024](https://skb.io/posts/blender-getting-started/) (7 months ago)
+- [Learning Blender in 2024](https://skb.io/posts/blender-getting-started/) (8 months ago)
 - [Booting with PXE](https://skb.io/posts/booting-with-pxe/) (8 months ago)
 - [Creative Coding](https://skb.io/posts/generative-art/) (8 months ago)
 - [About The Authors](https://skb.io/about/) (8 months ago)
