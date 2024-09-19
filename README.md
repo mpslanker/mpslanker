@@ -2,7 +2,7 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [mpslanker/dotfiles](https://github.com/mpslanker/dotfiles) (3 days ago)
+- [mpslanker/dotfiles](https://github.com/mpslanker/dotfiles) (4 days ago)
 - [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site (1 week ago)
 - [slaro/p5js-aizawa-attractor](https://github.com/slaro/p5js-aizawa-attractor) - Implementation of the Aizawa attractor in p5.js (8 months ago)
 - [antiboredom/p5.vscode](https://github.com/antiboredom/p5.vscode) - A VS Code extension to generate new p5.js project files. (8 months ago)
@@ -29,12 +29,12 @@
 - [Learning Blender in 2024](https://skb.io/posts/blender-getting-started/) (8 months ago)
 - [Booting with PXE](https://skb.io/posts/booting-with-pxe/) (8 months ago)
 - [Creative Coding](https://skb.io/posts/generative-art/) (8 months ago)
-- [About The Authors](https://skb.io/about/) (8 months ago)
+- [About The Authors](https://skb.io/about/) (9 months ago)
 - [Angular &#43; FastAPI with OpenAPI Generator](https://skb.io/posts/ng&#43;fastapi/) (2 years ago)
 
 #### ⭐ Recent stars
 
-- [leanghok120/moody](https://github.com/leanghok120/moody) - A cozy, minimal and super buggy X11 tiling window manager written in C (1 month ago)
+- [leanghok120/moody](https://github.com/leanghok120/moody) - A cozy, minimal and super buggy X11 tiling window manager written in C (2 months ago)
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (4 months ago)
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website &amp; Blog Theme for Hugo (8 months ago)
 - [yagiz/Bagel](https://github.com/yagiz/Bagel) - a little native network debugging tool for iOS (8 months ago)
