@@ -38,7 +38,7 @@
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (5 months ago)
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website &amp; Blog Theme for Hugo (9 months ago)
 - [yagiz/Bagel](https://github.com/yagiz/Bagel) - a little native network debugging tool for iOS (9 months ago)
-- [jiggak/steve-launcher](https://github.com/jiggak/steve-launcher) - Minecraft launcher for the command line (9 months ago)
+- [jiggak/steve-launcher](https://github.com/jiggak/steve-launcher) - Minecraft launcher for the command line (10 months ago)
 
 #### 📫 How to reach me
 - Blog: https://skb.io
