@@ -26,7 +26,7 @@
 
 #### 📜 Recent posts on my blog (They're not always written by me) 
 
-- [Learning Blender in 2024](https://skb.io/posts/blender-getting-started/) (9 months ago)
+- [Learning Blender in 2024](https://skb.io/posts/blender-getting-started/) (10 months ago)
 - [Booting with PXE](https://skb.io/posts/booting-with-pxe/) (10 months ago)
 - [Creative Coding](https://skb.io/posts/generative-art/) (10 months ago)
 - [About The Authors](https://skb.io/about/) (10 months ago)
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent stars
 
-- [leanghok120/moody](https://github.com/leanghok120/moody) - A cozy, minimal and super buggy X11 tiling window manager written in C (3 months ago)
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (6 months ago)
-- [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website &amp; Blog Theme for Hugo (10 months ago)
-- [yagiz/Bagel](https://github.com/yagiz/Bagel) - a little native network debugging tool for iOS (10 months ago)
-- [jiggak/steve-launcher](https://github.com/jiggak/steve-launcher) - Minecraft launcher for the command line (10 months ago)
+- [ines/termynal](https://github.com/ines/termynal) - ⬛️ Lightweight and modern terminal animations using async/await (today)
+- [JaKooLit/Fedora-Hyprland](https://github.com/JaKooLit/Fedora-Hyprland) - For automated installation of Hyprland on Fedora or any Fedora based distros (today)
+- [sorenisanerd/gotty](https://github.com/sorenisanerd/gotty) - Share your terminal as a web application (today)
+- [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs (today)
+- [RayTracing/raytracing.github.io](https://github.com/RayTracing/raytracing.github.io) - Main Web Site (Online Books) (today)
 
 #### 📫 How to reach me
 - Blog: https://skb.io
