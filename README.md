@@ -2,19 +2,19 @@
 ---
 #### 👷 Check out what I'm currently working on
 
+- [mpslanker/nixos-config](https://github.com/mpslanker/nixos-config) (1 day ago)
 - [mpslanker/dotfiles](https://github.com/mpslanker/dotfiles) (3 weeks ago)
 - [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site (2 months ago)
 - [slaro/p5js-aizawa-attractor](https://github.com/slaro/p5js-aizawa-attractor) - Implementation of the Aizawa attractor in p5.js (11 months ago)
 - [antiboredom/p5.vscode](https://github.com/antiboredom/p5.vscode) - A VS Code extension to generate new p5.js project files. (11 months ago)
-- [slaro/p5py-demos](https://github.com/slaro/p5py-demos) - p5 python demos (11 months ago)
 
 #### 🌱 My latest projects
 
+- [mpslanker/nixos-config](https://github.com/mpslanker/nixos-config)
 - [mpslanker/dotfiles](https://github.com/mpslanker/dotfiles)
 - [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site
 - [mpslanker/DigitalOcean-DDNS](https://github.com/mpslanker/DigitalOcean-DDNS) - A script for updating Digital Ocean DNS for use as DDNS.  Requires the following 3rd-party gems: Barge &amp; Nokogiri
 - [mpslanker/MobileConfigUtility](https://github.com/mpslanker/MobileConfigUtility) - A utility for created, reading, etc. .mobileconfig files.
-- [mpslanker/lcthw](https://github.com/mpslanker/lcthw) - Learn C the Hard Way Exercise Files
 
 #### 🔨 Latest Pull Requests I published
 
