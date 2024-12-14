@@ -2,8 +2,8 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [mpslanker/nixos-config](https://github.com/mpslanker/nixos-config) (2 days ago)
-- [mpslanker/dotfiles](https://github.com/mpslanker/dotfiles) (3 weeks ago)
+- [mpslanker/nixos-config](https://github.com/mpslanker/nixos-config) (3 days ago)
+- [mpslanker/dotfiles](https://github.com/mpslanker/dotfiles) (4 weeks ago)
 - [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site (2 months ago)
 - [slaro/p5js-aizawa-attractor](https://github.com/slaro/p5js-aizawa-attractor) - Implementation of the Aizawa attractor in p5.js (11 months ago)
 - [antiboredom/p5.vscode](https://github.com/antiboredom/p5.vscode) - A VS Code extension to generate new p5.js project files. (11 months ago)
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent stars
 
-- [ines/termynal](https://github.com/ines/termynal) - ⬛️ Lightweight and modern terminal animations using async/await (3 weeks ago)
-- [JaKooLit/Fedora-Hyprland](https://github.com/JaKooLit/Fedora-Hyprland) - For automated installation of Hyprland on Fedora or any Fedora based distros (3 weeks ago)
-- [sorenisanerd/gotty](https://github.com/sorenisanerd/gotty) - Share your terminal as a web application (3 weeks ago)
-- [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs (3 weeks ago)
-- [RayTracing/raytracing.github.io](https://github.com/RayTracing/raytracing.github.io) - Main Web Site (Online Books) (3 weeks ago)
+- [ines/termynal](https://github.com/ines/termynal) - ⬛️ Lightweight and modern terminal animations using async/await (4 weeks ago)
+- [JaKooLit/Fedora-Hyprland](https://github.com/JaKooLit/Fedora-Hyprland) - For automated installation of Hyprland on Fedora or any Fedora based distros (4 weeks ago)
+- [sorenisanerd/gotty](https://github.com/sorenisanerd/gotty) - Share your terminal as a web application (4 weeks ago)
+- [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs (4 weeks ago)
+- [RayTracing/raytracing.github.io](https://github.com/RayTracing/raytracing.github.io) - Main Web Site (Online Books) (4 weeks ago)
 
 #### 📫 How to reach me
 - Blog: https://skb.io
