@@ -2,7 +2,7 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [mpslanker/nixos-config](https://github.com/mpslanker/nixos-config) (6 days ago)
+- [mpslanker/nixos-config](https://github.com/mpslanker/nixos-config) (1 week ago)
 - [mpslanker/dotfiles](https://github.com/mpslanker/dotfiles) (1 month ago)
 - [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site (2 months ago)
 - [slaro/p5js-aizawa-attractor](https://github.com/slaro/p5js-aizawa-attractor) - Implementation of the Aizawa attractor in p5.js (11 months ago)
@@ -29,7 +29,7 @@
 - [Learning Blender in 2024](https://skb.io/posts/blender-getting-started/) (11 months ago)
 - [Booting with PXE](https://skb.io/posts/booting-with-pxe/) (11 months ago)
 - [Creative Coding](https://skb.io/posts/generative-art/) (11 months ago)
-- [About The Authors](https://skb.io/about/) (11 months ago)
+- [About The Authors](https://skb.io/about/) (1 year ago)
 - [Angular &#43; FastAPI with OpenAPI Generator](https://skb.io/posts/ng&#43;fastapi/) (2 years ago)
 
 #### ⭐ Recent stars
