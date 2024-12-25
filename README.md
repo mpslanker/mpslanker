@@ -2,7 +2,7 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [mpslanker/nixos-config](https://github.com/mpslanker/nixos-config) (1 week ago)
+- [mpslanker/nixos-config](https://github.com/mpslanker/nixos-config) (2 weeks ago)
 - [mpslanker/dotfiles](https://github.com/mpslanker/dotfiles) (1 month ago)
 - [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site (2 months ago)
 - [slaro/p5js-aizawa-attractor](https://github.com/slaro/p5js-aizawa-attractor) - Implementation of the Aizawa attractor in p5.js (1 year ago)
