@@ -27,18 +27,18 @@
 #### 📜 Recent posts on my blog (They're not always written by me) 
 
 - [Learning Blender in 2024](https://skb.io/posts/blender-getting-started/) (11 months ago)
-- [Booting with PXE](https://skb.io/posts/booting-with-pxe/) (11 months ago)
+- [Booting with PXE](https://skb.io/posts/booting-with-pxe/) (1 year ago)
 - [Creative Coding](https://skb.io/posts/generative-art/) (1 year ago)
 - [About The Authors](https://skb.io/about/) (1 year ago)
 - [Angular &#43; FastAPI with OpenAPI Generator](https://skb.io/posts/ng&#43;fastapi/) (2 years ago)
 
 #### ⭐ Recent stars
 
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (today)
 - [ines/termynal](https://github.com/ines/termynal) - ⬛️ Lightweight and modern terminal animations using async/await (1 month ago)
 - [JaKooLit/Fedora-Hyprland](https://github.com/JaKooLit/Fedora-Hyprland) - For automated installation of Hyprland on Fedora or any Fedora based distros (1 month ago)
 - [sorenisanerd/gotty](https://github.com/sorenisanerd/gotty) - Share your terminal as a web application (1 month ago)
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs (1 month ago)
-- [RayTracing/raytracing.github.io](https://github.com/RayTracing/raytracing.github.io) - Main Web Site (Online Books) (1 month ago)
 
 #### 📫 How to reach me
 - Blog: https://skb.io
