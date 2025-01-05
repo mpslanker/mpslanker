@@ -4,7 +4,7 @@
 
 - [mpslanker/nixos-config](https://github.com/mpslanker/nixos-config) (3 weeks ago)
 - [mpslanker/dotfiles](https://github.com/mpslanker/dotfiles) (1 month ago)
-- [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site (2 months ago)
+- [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site (3 months ago)
 
 #### 🌱 My latest projects
 
