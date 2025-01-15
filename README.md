@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [mpslanker/nixos-config](https://github.com/mpslanker/nixos-config) (1 month ago)
-- [mpslanker/dotfiles](https://github.com/mpslanker/dotfiles) (1 month ago)
+- [mpslanker/dotfiles](https://github.com/mpslanker/dotfiles) (2 months ago)
 - [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site (3 months ago)
 
 #### 🌱 My latest projects
@@ -24,7 +24,7 @@
 
 #### 📜 Recent posts on my blog (They're not always written by me) 
 
-- [Learning Blender in 2024](https://skb.io/posts/blender-getting-started/) (11 months ago)
+- [Learning Blender in 2024](https://skb.io/posts/blender-getting-started/) (1 year ago)
 - [Booting with PXE](https://skb.io/posts/booting-with-pxe/) (1 year ago)
 - [Creative Coding](https://skb.io/posts/generative-art/) (1 year ago)
 - [About The Authors](https://skb.io/about/) (1 year ago)
@@ -33,10 +33,10 @@
 #### ⭐ Recent stars
 
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (2 weeks ago)
-- [ines/termynal](https://github.com/ines/termynal) - ⬛️ Lightweight and modern terminal animations using async/await (1 month ago)
-- [JaKooLit/Fedora-Hyprland](https://github.com/JaKooLit/Fedora-Hyprland) - For automated installation of Hyprland on Fedora (latest release) or any Fedora based distros (1 month ago)
-- [sorenisanerd/gotty](https://github.com/sorenisanerd/gotty) - Share your terminal as a web application (1 month ago)
-- [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs (1 month ago)
+- [ines/termynal](https://github.com/ines/termynal) - ⬛️ Lightweight and modern terminal animations using async/await (2 months ago)
+- [JaKooLit/Fedora-Hyprland](https://github.com/JaKooLit/Fedora-Hyprland) - For automated installation of Hyprland on Fedora (latest release) or any Fedora based distros (2 months ago)
+- [sorenisanerd/gotty](https://github.com/sorenisanerd/gotty) - Share your terminal as a web application (2 months ago)
+- [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs (2 months ago)
 
 #### 📫 How to reach me
 - Blog: https://skb.io
