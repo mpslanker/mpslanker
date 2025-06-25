@@ -2,7 +2,7 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site (4 days ago)
+- [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site (5 days ago)
 - [mpslanker/nixos-config](https://github.com/mpslanker/nixos-config) (2 months ago)
 - [mpslanker/dotfiles](https://github.com/mpslanker/dotfiles) (7 months ago)
 
@@ -25,7 +25,7 @@
 #### 📜 Recent posts on my blog (They're not always written by me) 
 
 - [Learning Blender in 2024](https://skb.io/posts/blender-getting-started/) (1 year ago)
-- [Booting with PXE](https://skb.io/posts/booting-with-pxe/) (1 year ago)
+- [Booting with PXE](https://skb.io/posts/booting-with-pxe/) (2 years ago)
 - [Creative Coding](https://skb.io/posts/generative-art/) (2 years ago)
 - [About The Authors](https://skb.io/about/) (2 years ago)
 - [Angular &#43; FastAPI with OpenAPI Generator](https://skb.io/posts/ng&#43;fastapi/) (2 years ago)
@@ -33,7 +33,7 @@
 #### ⭐ Recent stars
 
 - [SeedLabs-it/smartknob-firmware](https://github.com/SeedLabs-it/smartknob-firmware) - Repository for the Smart Knob Firmware (Currently supporting Dev Kit v0.1) (4 months ago)
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (5 months ago)
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (6 months ago)
 - [ines/termynal](https://github.com/ines/termynal) - ⬛️ Lightweight and modern terminal animations using async/await (7 months ago)
 - [JaKooLit/Fedora-Hyprland](https://github.com/JaKooLit/Fedora-Hyprland) - For automated installation of Hyprland on Fedora (latest release) or any Fedora based distros (7 months ago)
 - [sorenisanerd/gotty](https://github.com/sorenisanerd/gotty) - Share your terminal as a web application (7 months ago)
