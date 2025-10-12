@@ -4,7 +4,7 @@
 
 - [mpslanker/nixos-config](https://github.com/mpslanker/nixos-config) (1 month ago)
 - [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site (3 months ago)
-- [mpslanker/dotfiles](https://github.com/mpslanker/dotfiles) (10 months ago)
+- [mpslanker/dotfiles](https://github.com/mpslanker/dotfiles) (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -34,9 +34,9 @@
 
 - [SeedLabs-it/smartknob-firmware](https://github.com/SeedLabs-it/smartknob-firmware) - Repository for the Smart Knob Firmware (Currently supporting Dev Kit v0.1) (8 months ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (9 months ago)
-- [ines/termynal](https://github.com/ines/termynal) - ⬛️ Lightweight and modern terminal animations using async/await (10 months ago)
-- [JaKooLit/Fedora-Hyprland](https://github.com/JaKooLit/Fedora-Hyprland) - For automated installation of Hyprland on Fedora (latest release) or any Fedora based distros (10 months ago)
-- [sorenisanerd/gotty](https://github.com/sorenisanerd/gotty) - Share your terminal as a web application (10 months ago)
+- [ines/termynal](https://github.com/ines/termynal) - ⬛️ Lightweight and modern terminal animations using async/await (11 months ago)
+- [JaKooLit/Fedora-Hyprland](https://github.com/JaKooLit/Fedora-Hyprland) - For automated installation of Hyprland on Fedora (latest release) or any Fedora based distros (11 months ago)
+- [sorenisanerd/gotty](https://github.com/sorenisanerd/gotty) - Share your terminal as a web application (11 months ago)
 
 #### 📫 How to reach me
 - Blog: https://skb.io
