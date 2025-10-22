@@ -2,7 +2,7 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site (5 days ago)
+- [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site (6 days ago)
 - [mpslanker/nixos-config](https://github.com/mpslanker/nixos-config) (1 month ago)
 - [mpslanker/dotfiles](https://github.com/mpslanker/dotfiles) (11 months ago)
 
@@ -24,11 +24,11 @@
 
 #### 📜 Recent posts on my blog (They're not always written by me) 
 
-- [Content Organization Guide](https://skb.io/docs/content-management/content-guide/) (6 days ago)
-- [Params.toml Reference](https://skb.io/docs/configuration/params-reference/) (6 days ago)
-- [Project Architecture](https://skb.io/docs/deployment/project-summary/) (6 days ago)
-- [Quick Start](https://skb.io/docs/getting-started/quick-start/) (6 days ago)
-- [Content Creation Commands](https://skb.io/docs/content-management/content-creation/) (6 days ago)
+- [Content Organization Guide](https://skb.io/docs/content-management/content-guide/) (1 week ago)
+- [Params.toml Reference](https://skb.io/docs/configuration/params-reference/) (1 week ago)
+- [Project Architecture](https://skb.io/docs/deployment/project-summary/) (1 week ago)
+- [Quick Start](https://skb.io/docs/getting-started/quick-start/) (1 week ago)
+- [Content Creation Commands](https://skb.io/docs/content-management/content-creation/) (1 week ago)
 
 #### ⭐ Recent stars
 
