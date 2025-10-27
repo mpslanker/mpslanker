@@ -32,11 +32,11 @@
 
 #### ⭐ Recent stars
 
-- [SeedLabs-it/smartknob-firmware](https://github.com/SeedLabs-it/smartknob-firmware) - Repository for the Smart Knob Firmware (Currently supporting Dev Kit v0.1) (8 months ago)
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (10 months ago)
-- [ines/termynal](https://github.com/ines/termynal) - ⬛️ Lightweight and modern terminal animations using async/await (11 months ago)
-- [JaKooLit/Fedora-Hyprland](https://github.com/JaKooLit/Fedora-Hyprland) - For automated installation of Hyprland on Fedora (latest release) or any Fedora based distros (11 months ago)
-- [sorenisanerd/gotty](https://github.com/sorenisanerd/gotty) - Share your terminal as a web application (11 months ago)
+- [jaredtrog/obsidian-wikijs-publisher](https://github.com/jaredtrog/obsidian-wikijs-publisher) - An Obsidian plugin to publish notes to a Wiki.js instance. (1 day ago)
+- [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port) (1 day ago)
+- [petabyt/crypticos](https://github.com/petabyt/crypticos) - Obscure 256 Byte OS (1 day ago)
+- [plamf/fuji-x-weekly-simulation-profiles](https://github.com/plamf/fuji-x-weekly-simulation-profiles) - Fuji X Weekly Recipes converted to FP1 Files for use with Fuji X Raw Studio (1 day ago)
+- [Rediwed/SnapSort](https://github.com/Rediwed/SnapSort) - SnapSort is a smart photo-scraping tool for extracting and organizing your personal photos from old or mixed-content computer hard drives. It scans all folders, finds and evaluates each image, and avoids copying system or application files. The goal is to help you recover and sort your memories efficiently. (1 day ago)
 
 #### 📫 How to reach me
 - Blog: https://skb.io
