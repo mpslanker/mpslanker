@@ -24,19 +24,19 @@
 
 #### 📜 Recent posts on my blog (They're not always written by me) 
 
-- [Content Organization Guide](https://skb.io/docs/content-management/content-guide/) (1 week ago)
-- [Params.toml Reference](https://skb.io/docs/configuration/params-reference/) (1 week ago)
-- [Project Architecture](https://skb.io/docs/deployment/project-summary/) (1 week ago)
-- [Quick Start](https://skb.io/docs/getting-started/quick-start/) (1 week ago)
-- [Content Creation Commands](https://skb.io/docs/content-management/content-creation/) (1 week ago)
+- [Content Organization Guide](https://skb.io/docs/content-management/content-guide/) (2 weeks ago)
+- [Params.toml Reference](https://skb.io/docs/configuration/params-reference/) (2 weeks ago)
+- [Project Architecture](https://skb.io/docs/deployment/project-summary/) (2 weeks ago)
+- [Quick Start](https://skb.io/docs/getting-started/quick-start/) (2 weeks ago)
+- [Content Creation Commands](https://skb.io/docs/content-management/content-creation/) (2 weeks ago)
 
 #### ⭐ Recent stars
 
-- [jaredtrog/obsidian-wikijs-publisher](https://github.com/jaredtrog/obsidian-wikijs-publisher) - An Obsidian plugin to publish notes to a Wiki.js instance. (2 days ago)
-- [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port) (2 days ago)
-- [petabyt/crypticos](https://github.com/petabyt/crypticos) - Obscure 256 Byte OS (2 days ago)
-- [plamf/fuji-x-weekly-simulation-profiles](https://github.com/plamf/fuji-x-weekly-simulation-profiles) - Fuji X Weekly Recipes converted to FP1 Files for use with Fuji X Raw Studio (2 days ago)
-- [Rediwed/SnapSort](https://github.com/Rediwed/SnapSort) - SnapSort is a smart photo-scraping tool for extracting and organizing your personal photos from old or mixed-content computer hard drives. It scans all folders, finds and evaluates each image, and avoids copying system or application files. The goal is to help you recover and sort your memories efficiently. (2 days ago)
+- [jaredtrog/obsidian-wikijs-publisher](https://github.com/jaredtrog/obsidian-wikijs-publisher) - An Obsidian plugin to publish notes to a Wiki.js instance. (3 days ago)
+- [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port) (3 days ago)
+- [petabyt/crypticos](https://github.com/petabyt/crypticos) - Obscure 256 Byte OS (3 days ago)
+- [plamf/fuji-x-weekly-simulation-profiles](https://github.com/plamf/fuji-x-weekly-simulation-profiles) - Fuji X Weekly Recipes converted to FP1 Files for use with Fuji X Raw Studio (3 days ago)
+- [Rediwed/SnapSort](https://github.com/Rediwed/SnapSort) - SnapSort is a smart photo-scraping tool for extracting and organizing your personal photos from old or mixed-content computer hard drives. It scans all folders, finds and evaluates each image, and avoids copying system or application files. The goal is to help you recover and sort your memories efficiently. (3 days ago)
 
 #### 📫 How to reach me
 - Blog: https://skb.io
