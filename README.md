@@ -31,11 +31,11 @@
 
 #### ⭐ Recent stars
 
-- [jaredtrog/obsidian-wikijs-publisher](https://github.com/jaredtrog/obsidian-wikijs-publisher) - An Obsidian plugin to publish notes to a Wiki.js instance. (3 weeks ago)
-- [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port) (3 weeks ago)
-- [petabyt/crypticos](https://github.com/petabyt/crypticos) - Obscure 256 Byte OS (3 weeks ago)
-- [plamf/fuji-x-weekly-simulation-profiles](https://github.com/plamf/fuji-x-weekly-simulation-profiles) - Fuji X Weekly Recipes converted to FP1 Files for use with Fuji X Raw Studio (3 weeks ago)
-- [Rediwed/SnapSort](https://github.com/Rediwed/SnapSort) - SnapSort is a smart photo-scraping tool for extracting and organizing your personal photos from old or mixed-content computer hard drives. It scans all folders, finds and evaluates each image, and avoids copying system or application files. The goal is to help you recover and sort your memories efficiently. (3 weeks ago)
+- [jaredtrog/obsidian-wikijs-publisher](https://github.com/jaredtrog/obsidian-wikijs-publisher) - An Obsidian plugin to publish notes to a Wiki.js instance. (4 weeks ago)
+- [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port) (4 weeks ago)
+- [petabyt/crypticos](https://github.com/petabyt/crypticos) - Obscure 256 Byte OS (4 weeks ago)
+- [plamf/fuji-x-weekly-simulation-profiles](https://github.com/plamf/fuji-x-weekly-simulation-profiles) - Fuji X Weekly Recipes converted to FP1 Files for use with Fuji X Raw Studio (4 weeks ago)
+- [Rediwed/SnapSort](https://github.com/Rediwed/SnapSort) - SnapSort is a smart photo-scraping tool for extracting and organizing your personal photos from old or mixed-content computer hard drives. It scans all folders, finds and evaluates each image, and avoids copying system or application files. The goal is to help you recover and sort your memories efficiently. (4 weeks ago)
 
 #### 📫 How to reach me
 - Blog: https://skb.io
