@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site (1 month ago)
-- [mpslanker/nixos-config](https://github.com/mpslanker/nixos-config) (2 months ago)
+- [mpslanker/nixos-config](https://github.com/mpslanker/nixos-config) (3 months ago)
 
 #### 🌱 My latest projects
 
