@@ -23,11 +23,11 @@
 
 #### 📜 Recent posts on my blog (They're not always written by me) 
 
-- [Content Organization Guide](https://skb.io/docs/content-management/content-guide/) (1 month ago)
-- [Params.toml Reference](https://skb.io/docs/configuration/params-reference/) (1 month ago)
-- [Project Architecture](https://skb.io/docs/deployment/project-summary/) (1 month ago)
-- [Quick Start](https://skb.io/docs/getting-started/quick-start/) (1 month ago)
-- [Content Creation Commands](https://skb.io/docs/content-management/content-creation/) (1 month ago)
+- [Content Organization Guide](https://skb.io/docs/content-management/content-guide/) (2 months ago)
+- [Params.toml Reference](https://skb.io/docs/configuration/params-reference/) (2 months ago)
+- [Project Architecture](https://skb.io/docs/deployment/project-summary/) (2 months ago)
+- [Quick Start](https://skb.io/docs/getting-started/quick-start/) (2 months ago)
+- [Content Creation Commands](https://skb.io/docs/content-management/content-creation/) (2 months ago)
 
 #### ⭐ Recent stars
 
