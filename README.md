@@ -31,11 +31,11 @@
 
 #### ⭐ Recent stars
 
-- [jaredtrog/obsidian-wikijs-publisher](https://github.com/jaredtrog/obsidian-wikijs-publisher) - An Obsidian plugin to publish notes to a Wiki.js instance. (2 months ago)
-- [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port) (2 months ago)
-- [petabyt/crypticos](https://github.com/petabyt/crypticos) - Obscure 256 Byte OS (2 months ago)
-- [plamf/fuji-x-weekly-simulation-profiles](https://github.com/plamf/fuji-x-weekly-simulation-profiles) - Fuji X Weekly Recipes converted to FP1 Files for use with Fuji X Raw Studio (2 months ago)
-- [Rediwed/SnapSort](https://github.com/Rediwed/SnapSort) - SnapSort is a smart photo-scraping tool for extracting and organizing your personal photos from old or mixed-content computer hard drives. It scans all folders, finds and evaluates each image, and avoids copying system or application files. The goal is to help you recover and sort your memories efficiently. (2 months ago)
+- [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app to control volume for each app independently, route apps to different output devices, and apply EQ (1 day ago)
+- [jaredtrog/obsidian-wikijs-publisher](https://github.com/jaredtrog/obsidian-wikijs-publisher) - An Obsidian plugin to publish notes to a Wiki.js instance. (3 months ago)
+- [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port) (3 months ago)
+- [petabyt/crypticos](https://github.com/petabyt/crypticos) - Obscure 256 Byte OS (3 months ago)
+- [plamf/fuji-x-weekly-simulation-profiles](https://github.com/plamf/fuji-x-weekly-simulation-profiles) - Fuji X Weekly Recipes converted to FP1 Files for use with Fuji X Raw Studio (3 months ago)
 
 #### 📫 How to reach me
 - Blog: https://skb.io
