@@ -19,7 +19,7 @@
 - [Feature/monaco editor](https://github.com/mpslanker/Ronin/pull/1) on [mpslanker/Ronin](https://github.com/mpslanker/Ronin) (2 years ago)
 - [Feature/GitHub actions](https://github.com/lionheart/pinboard.py/pull/30) on [lionheart/pinboard.py](https://github.com/lionheart/pinboard.py) (2 years ago)
 - [Skips parsing keys when dealing with tags](https://github.com/lionheart/pinboard.py/pull/28) on [lionheart/pinboard.py](https://github.com/lionheart/pinboard.py) (2 years ago)
-- [Updated debian install docs to work on both debian and ubuntu](https://github.com/dokku/dokku/pull/5658) on [dokku/dokku](https://github.com/dokku/dokku) (2 years ago)
+- [Updated debian install docs to work on both debian and ubuntu](https://github.com/dokku/dokku/pull/5658) on [dokku/dokku](https://github.com/dokku/dokku) (3 years ago)
 
 #### 📜 Recent posts on my blog (They're not always written by me) 
 
@@ -31,7 +31,7 @@
 
 #### ⭐ Recent stars
 
-- [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app to control volume for each app independently, route apps to different output devices, and apply EQ (3 days ago)
+- [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app to control volume for each app independently, route apps to different output devices, and apply EQ (4 days ago)
 - [jaredtrog/obsidian-wikijs-publisher](https://github.com/jaredtrog/obsidian-wikijs-publisher) - An Obsidian plugin to publish notes to a Wiki.js instance. (3 months ago)
 - [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port) (3 months ago)
 - [petabyt/crypticos](https://github.com/petabyt/crypticos) - Obscure 256 Byte OS (3 months ago)
