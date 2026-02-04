@@ -15,8 +15,8 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix #228: log rotation and verbosity when running FOKS in Docker via standup](https://github.com/foks-proj/go-foks/pull/230) on [foks-proj/go-foks](https://github.com/foks-proj/go-foks) (today)
-- [Fix typos in comments, help text, and error messages](https://github.com/foks-proj/go-foks/pull/229) on [foks-proj/go-foks](https://github.com/foks-proj/go-foks) (today)
+- [Fix #228: log rotation and verbosity when running FOKS in Docker via standup](https://github.com/foks-proj/go-foks/pull/230) on [foks-proj/go-foks](https://github.com/foks-proj/go-foks) (1 day ago)
+- [Fix typos in comments, help text, and error messages](https://github.com/foks-proj/go-foks/pull/229) on [foks-proj/go-foks](https://github.com/foks-proj/go-foks) (1 day ago)
 - [correcting the p5.easycam library install url.](https://github.com/antiboredom/p5.vscode/pull/62) on [antiboredom/p5.vscode](https://github.com/antiboredom/p5.vscode) (2 years ago)
 - [Feature/monaco editor](https://github.com/mpslanker/Ronin/pull/1) on [mpslanker/Ronin](https://github.com/mpslanker/Ronin) (2 years ago)
 - [Feature/GitHub actions](https://github.com/lionheart/pinboard.py/pull/30) on [lionheart/pinboard.py](https://github.com/lionheart/pinboard.py) (2 years ago)
@@ -31,7 +31,7 @@
 
 #### ⭐ Recent stars
 
-- [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source. (1 week ago)
+- [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource. (1 week ago)
 - [jaredtrog/obsidian-wikijs-publisher](https://github.com/jaredtrog/obsidian-wikijs-publisher) - An Obsidian plugin to publish notes to a Wiki.js instance. (3 months ago)
 - [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port) (3 months ago)
 - [petabyt/crypticos](https://github.com/petabyt/crypticos) - Obscure 256 Byte OS (3 months ago)
