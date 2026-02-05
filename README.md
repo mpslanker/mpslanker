@@ -15,8 +15,8 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix #228: log rotation and verbosity when running FOKS in Docker via standup](https://github.com/foks-proj/go-foks/pull/230) on [foks-proj/go-foks](https://github.com/foks-proj/go-foks) (1 day ago)
-- [Fix typos in comments, help text, and error messages](https://github.com/foks-proj/go-foks/pull/229) on [foks-proj/go-foks](https://github.com/foks-proj/go-foks) (1 day ago)
+- [Fix #228: log rotation and verbosity when running FOKS in Docker via standup](https://github.com/foks-proj/go-foks/pull/230) on [foks-proj/go-foks](https://github.com/foks-proj/go-foks) (2 days ago)
+- [Fix typos in comments, help text, and error messages](https://github.com/foks-proj/go-foks/pull/229) on [foks-proj/go-foks](https://github.com/foks-proj/go-foks) (2 days ago)
 - [correcting the p5.easycam library install url.](https://github.com/antiboredom/p5.vscode/pull/62) on [antiboredom/p5.vscode](https://github.com/antiboredom/p5.vscode) (2 years ago)
 - [Feature/monaco editor](https://github.com/mpslanker/Ronin/pull/1) on [mpslanker/Ronin](https://github.com/mpslanker/Ronin) (2 years ago)
 - [Feature/GitHub actions](https://github.com/lionheart/pinboard.py/pull/30) on [lionheart/pinboard.py](https://github.com/lionheart/pinboard.py) (2 years ago)
