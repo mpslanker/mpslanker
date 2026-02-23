@@ -32,10 +32,10 @@
 #### ⭐ Recent stars
 
 - [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource. (1 month ago)
-- [jaredtrog/obsidian-wikijs-publisher](https://github.com/jaredtrog/obsidian-wikijs-publisher) - An Obsidian plugin to publish notes to a Wiki.js instance. (3 months ago)
-- [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port) (3 months ago)
-- [petabyt/crypticos](https://github.com/petabyt/crypticos) - Obscure 256 Byte OS (3 months ago)
-- [plamf/fuji-x-weekly-simulation-profiles](https://github.com/plamf/fuji-x-weekly-simulation-profiles) - Fuji X Weekly Recipes converted to FP1 Files for use with Fuji X Raw Studio (3 months ago)
+- [jaredtrog/obsidian-wikijs-publisher](https://github.com/jaredtrog/obsidian-wikijs-publisher) - An Obsidian plugin to publish notes to a Wiki.js instance. (4 months ago)
+- [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port) (4 months ago)
+- [petabyt/crypticos](https://github.com/petabyt/crypticos) - Obscure 256 Byte OS (4 months ago)
+- [plamf/fuji-x-weekly-simulation-profiles](https://github.com/plamf/fuji-x-weekly-simulation-profiles) - Fuji X Weekly Recipes converted to FP1 Files for use with Fuji X Raw Studio (4 months ago)
 
 #### 📫 How to reach me
 - Blog: https://skb.io
