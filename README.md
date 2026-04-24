@@ -2,7 +2,7 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [foks-proj/go-foks](https://github.com/foks-proj/go-foks) - Go implementation of FOKS -- client and server (1 month ago)
+- [foks-proj/go-foks](https://github.com/foks-proj/go-foks) - Go implementation of FOKS -- client and server (2 months ago)
 - [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site (6 months ago)
 - [mpslanker/nixos-config](https://github.com/mpslanker/nixos-config) (7 months ago)
 
@@ -33,10 +33,10 @@
 #### ⭐ Recent stars
 
 - [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource. (3 months ago)
-- [jaredtrog/obsidian-wikijs-publisher](https://github.com/jaredtrog/obsidian-wikijs-publisher) - An Obsidian plugin to publish notes to a Wiki.js instance. (5 months ago)
-- [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port) (5 months ago)
-- [petabyt/crypticos](https://github.com/petabyt/crypticos) - Obscure 256 Byte OS (5 months ago)
-- [plamf/fuji-x-weekly-simulation-profiles](https://github.com/plamf/fuji-x-weekly-simulation-profiles) - Fuji X Weekly Recipes converted to FP1 Files for use with Fuji X Raw Studio (5 months ago)
+- [jaredtrog/obsidian-wikijs-publisher](https://github.com/jaredtrog/obsidian-wikijs-publisher) - An Obsidian plugin to publish notes to a Wiki.js instance. (6 months ago)
+- [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port) (6 months ago)
+- [petabyt/crypticos](https://github.com/petabyt/crypticos) - Obscure 256 Byte OS (6 months ago)
+- [plamf/fuji-x-weekly-simulation-profiles](https://github.com/plamf/fuji-x-weekly-simulation-profiles) - Fuji X Weekly Recipes converted to FP1 Files for use with Fuji X Raw Studio (6 months ago)
 
 #### 📫 How to reach me
 - Blog: https://skb.io
