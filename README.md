@@ -4,7 +4,7 @@
 
 - [foks-proj/go-foks](https://github.com/foks-proj/go-foks) - Go implementation of FOKS -- client and server (5 months ago)
 - [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site (9 months ago)
-- [mpslanker/nixos-config](https://github.com/mpslanker/nixos-config) (10 months ago)
+- [mpslanker/nixos-config](https://github.com/mpslanker/nixos-config) (11 months ago)
 
 #### 🌱 My latest projects
 
