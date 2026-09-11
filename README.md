@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [foks-proj/go-foks](https://github.com/foks-proj/go-foks) - Go implementation of FOKS -- client and server (6 months ago)
-- [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site (10 months ago)
+- [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site (11 months ago)
 
 #### 🌱 My latest projects
 
