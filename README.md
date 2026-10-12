@@ -2,6 +2,7 @@
 ---
 #### 👷 Check out what I'm currently working on
 
+- [slaro/p5py-demos](https://github.com/slaro/p5py-demos) - p5 python demos (1 day ago)
 - [foks-proj/go-foks](https://github.com/foks-proj/go-foks) - Go implementation of FOKS -- client and server (7 months ago)
 - [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site (1 year ago)
 
