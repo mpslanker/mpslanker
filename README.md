@@ -2,17 +2,17 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [slaro/p5py-demos](https://github.com/slaro/p5py-demos) - p5 python demos (3 days ago)
+- [slaro/p5py-demos](https://github.com/slaro/p5py-demos) - p5 python demos (4 days ago)
 - [foks-proj/go-foks](https://github.com/foks-proj/go-foks) - Go implementation of FOKS -- client and server (7 months ago)
 - [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site (1 year ago)
 
 #### 🌱 My latest projects
 
+- [mpslanker/usbthing](https://github.com/mpslanker/usbthing) - General purpose layer for creating or emulating USB devices
 - [mpslanker/nixos-config](https://github.com/mpslanker/nixos-config)
 - [mpslanker/dotfiles](https://github.com/mpslanker/dotfiles)
 - [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site
 - [mpslanker/DigitalOcean-DDNS](https://github.com/mpslanker/DigitalOcean-DDNS) - A script for updating Digital Ocean DNS for use as DDNS.  Requires the following 3rd-party gems: Barge &amp; Nokogiri
-- [mpslanker/MobileConfigUtility](https://github.com/mpslanker/MobileConfigUtility) - A utility for created, reading, etc. .mobileconfig files.
 
 #### 🔨 Latest Pull Requests I published
 
