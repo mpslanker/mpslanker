@@ -2,24 +2,25 @@
 ---
 #### 👷 Check out what I'm currently working on
 
+- [mpslanker/openterface-host-unified](https://github.com/mpslanker/openterface-host-unified) - an experimental integration project (1 day ago)
 - [slaro/p5py-demos](https://github.com/slaro/p5py-demos) - p5 python demos (3 weeks ago)
 - [foks-proj/go-foks](https://github.com/foks-proj/go-foks) - Go implementation of FOKS -- client and server (8 months ago)
 
 #### 🌱 My latest projects
 
+- [mpslanker/openterface-host-unified](https://github.com/mpslanker/openterface-host-unified) - an experimental integration project
 - [mpslanker/usbthing](https://github.com/mpslanker/usbthing) - General purpose layer for creating or emulating USB devices
 - [mpslanker/nixos-config](https://github.com/mpslanker/nixos-config)
 - [mpslanker/dotfiles](https://github.com/mpslanker/dotfiles)
 - [mpslanker/skb.io](https://github.com/mpslanker/skb.io) - A Hugo-based site
-- [mpslanker/DigitalOcean-DDNS](https://github.com/mpslanker/DigitalOcean-DDNS) - A script for updating Digital Ocean DNS for use as DDNS.  Requires the following 3rd-party gems: Barge &amp; Nokogiri
 
 #### 🔨 Latest Pull Requests I published
 
+- [Baseline build ci](https://github.com/mpslanker/openterface-host-unified/pull/2) on [mpslanker/openterface-host-unified](https://github.com/mpslanker/openterface-host-unified) (today)
+- [Bootstrap unified host](https://github.com/mpslanker/openterface-host-unified/pull/1) on [mpslanker/openterface-host-unified](https://github.com/mpslanker/openterface-host-unified) (today)
+- [Fix Local Paste by sending the target-side paste shortcut](https://github.com/TechxArtisanStudio/Openterface_MacOS/pull/127) on [TechxArtisanStudio/Openterface_MacOS](https://github.com/TechxArtisanStudio/Openterface_MacOS) (today)
 - [Fix #228: log rotation and verbosity when running FOKS in Docker via standup](https://github.com/foks-proj/go-foks/pull/230) on [foks-proj/go-foks](https://github.com/foks-proj/go-foks) (9 months ago)
 - [Fix typos in comments, help text, and error messages](https://github.com/foks-proj/go-foks/pull/229) on [foks-proj/go-foks](https://github.com/foks-proj/go-foks) (9 months ago)
-- [correcting the p5.easycam library install url.](https://github.com/antiboredom/p5.vscode/pull/62) on [antiboredom/p5.vscode](https://github.com/antiboredom/p5.vscode) (2 years ago)
-- [Feature/monaco editor](https://github.com/mpslanker/Ronin/pull/1) on [mpslanker/Ronin](https://github.com/mpslanker/Ronin) (2 years ago)
-- [Feature/GitHub actions](https://github.com/lionheart/pinboard.py/pull/30) on [lionheart/pinboard.py](https://github.com/lionheart/pinboard.py) (3 years ago)
 
 #### 📜 Recent posts on my blog (They're not always written by me) 
 
