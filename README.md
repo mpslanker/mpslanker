@@ -16,9 +16,9 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Baseline build ci](https://github.com/mpslanker/openterface-host-unified/pull/2) on [mpslanker/openterface-host-unified](https://github.com/mpslanker/openterface-host-unified) (1 week ago)
-- [Bootstrap unified host](https://github.com/mpslanker/openterface-host-unified/pull/1) on [mpslanker/openterface-host-unified](https://github.com/mpslanker/openterface-host-unified) (1 week ago)
-- [Fix Local Paste by sending the target-side paste shortcut](https://github.com/TechxArtisanStudio/Openterface_MacOS/pull/127) on [TechxArtisanStudio/Openterface_MacOS](https://github.com/TechxArtisanStudio/Openterface_MacOS) (1 week ago)
+- [Baseline build ci](https://github.com/mpslanker/openterface-host-unified/pull/2) on [mpslanker/openterface-host-unified](https://github.com/mpslanker/openterface-host-unified) (2 weeks ago)
+- [Bootstrap unified host](https://github.com/mpslanker/openterface-host-unified/pull/1) on [mpslanker/openterface-host-unified](https://github.com/mpslanker/openterface-host-unified) (2 weeks ago)
+- [Fix Local Paste by sending the target-side paste shortcut](https://github.com/TechxArtisanStudio/Openterface_MacOS/pull/127) on [TechxArtisanStudio/Openterface_MacOS](https://github.com/TechxArtisanStudio/Openterface_MacOS) (2 weeks ago)
 - [Fix #228: log rotation and verbosity when running FOKS in Docker via standup](https://github.com/foks-proj/go-foks/pull/230) on [foks-proj/go-foks](https://github.com/foks-proj/go-foks) (9 months ago)
 - [Fix typos in comments, help text, and error messages](https://github.com/foks-proj/go-foks/pull/229) on [foks-proj/go-foks](https://github.com/foks-proj/go-foks) (9 months ago)
 
