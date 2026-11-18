@@ -3,6 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [mpslanker/openterface-host-unified](https://github.com/mpslanker/openterface-host-unified) - an experimental integration project (2 weeks ago)
+- [TechxArtisanStudio/Openterface_MacOS](https://github.com/TechxArtisanStudio/Openterface_MacOS) - Openterface MacOS App source code (2 weeks ago)
 - [slaro/p5py-demos](https://github.com/slaro/p5py-demos) - p5 python demos (1 month ago)
 - [foks-proj/go-foks](https://github.com/foks-proj/go-foks) - Go implementation of FOKS -- client and server (8 months ago)
 
