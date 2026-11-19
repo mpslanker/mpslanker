@@ -33,7 +33,7 @@
 
 #### ⭐ Recent stars
 
-- [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource. (9 months ago)
+- [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource. (10 months ago)
 - [jaredtrog/obsidian-wikijs-publisher](https://github.com/jaredtrog/obsidian-wikijs-publisher) - An Obsidian plugin to publish notes to a Wiki.js instance. (1 year ago)
 - [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port) (1 year ago)
 - [petabyt/crypticos](https://github.com/petabyt/crypticos) - Obscure 256 Byte OS (1 year ago)
